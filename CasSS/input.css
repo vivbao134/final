@@ -67,6 +67,7 @@ li{
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 article{
+  position: relative ;
   font-size: 30px;
   border: 4px solid rgb(4, 4, 8);
   text-align: center;
