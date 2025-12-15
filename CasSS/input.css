@@ -76,6 +76,7 @@ article{
   width: 30%;
   }
 .submit{
+  position: relative ;
   background-color: #6c7735;
   color: rgb(255, 255, 255);
   padding: 15px 32px;
